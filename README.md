@@ -2,7 +2,7 @@
 - 👀 I’m interested in art☀️
 - 🌱 I’m learning to code art with ai
 - 💞️ Let's collab on public goods
-- 📫 Reach me @cryptopeace on twitter
+- 📫 I'm @cryptopeace on twitter
 
 <!---
 crypto-peace/crypto-peace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
