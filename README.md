@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @crypto-peace
 - 👀 I’m interested in art☀️
-- 🌱 I’m learning to code art with ai
+- 🌱 I’m learning to code ai art
 - 💞️ Let's collab on public goods
 - 📫 I'm @cryptopeace on twitter
 
